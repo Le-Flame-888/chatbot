@@ -1,0 +1,36 @@
+{
+    "programming_languages": {
+        "python": {
+            "created": "1991",
+            "creator": "Guido van Rossum",
+            "features": [
+                "Readable syntax",
+                "Large standard library",
+                "Dynamic typing"
+            ]
+        },
+        "javascript": {
+            "created": "1995",
+            "creator": "Brendan Eich",
+            "features": [
+                "Web interactivity",
+                "Asynchronous programming",
+                "Object-oriented"
+            ]
+        }
+    },
+    "artificial_intelligence": {
+        "machine_learning": {
+            "types": [
+                "Supervised",
+                "Unsupervised",
+                "Reinforcement"
+            ],
+            "applications": [
+                "Image recognition",
+                "Natural language processing",
+                "Recommendation systems"
+            ]
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "art_movements": {
+        "renaissance": {
+            "period": "14th-17th centuries",
+            "characteristics": [
+                "Realism",
+                "Perspective",
+                "Humanism"
+            ],
+            "notable_artists": [
+                "Leonardo da Vinci",
+                "Michelangelo",
+                "Raphael"
+            ]
+        },
+        "impressionism": {
+            "period": "19th century",
+            "characteristics": [
+                "Light effects",
+                "Visible brushstrokes",
+                "Modern subjects"
+            ],
+            "notable_artists": [
+                "Claude Monet",
+                "Pierre-Auguste Renoir",
+                "Edgar Degas"
+            ]
+        }
+    },
+    "music_genres": {
+        "classical": {
+            "period": "1730-1820",
+            "characteristics": [
+                "Complex compositions",
+                "Orchestral",
+                "Formal structure"
+            ],
+            "notable_composers": [
+                "Mozart",
+                "Beethoven",
+                "Bach"
+            ]
+        },
+        "jazz": {
+            "period": "Early 20th century-present",
+            "characteristics": [
+                "Improvisation",
+                "Syncopation",
+                "Blue notes"
+            ],
+            "notable_artists": [
+                "Louis Armstrong",
+                "Miles Davis",
+                "Duke Ellington"
+            ]
+        }
+    }
+}

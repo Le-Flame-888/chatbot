@@ -1,0 +1,9 @@
+{
+    "general_knowledge": {
+        "what_is_ai": "Artificial Intelligence (AI) is the simulation of human intelligence by machines.",
+        "what_is_machine_learning": "Machine Learning is a subset of AI that enables systems to learn from data.",
+        "what_is_deep_learning": "Deep Learning is a subset of machine learning using neural networks with multiple layers.",
+        "what_is_python": "Python is a high-level, interpreted programming language known for its simplicity and readability.",
+        "what_is_chatbot": "A chatbot is a software application that conducts conversations with users through text or voice."
+    }
+}

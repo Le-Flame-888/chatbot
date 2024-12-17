@@ -1,0 +1,25 @@
+{
+    "physics": {
+        "newton_laws": {
+            "first_law": "An object will remain at rest or in uniform motion unless acted upon by an external force.",
+            "second_law": "Force equals mass times acceleration (F = ma).",
+            "third_law": "For every action, there is an equal and opposite reaction."
+        },
+        "einstein_theories": {
+            "special_relativity": "The laws of physics are the same for all non-accelerating observers.",
+            "general_relativity": "Gravity is a consequence of the curvature of spacetime."
+        }
+    },
+    "chemistry": {
+        "periodic_table": {
+            "hydrogen": "Atomic number 1, lightest element",
+            "oxygen": "Atomic number 8, essential for life",
+            "carbon": "Atomic number 6, basis for organic chemistry"
+        },
+        "chemical_bonds": {
+            "covalent": "Sharing of electrons between atoms",
+            "ionic": "Transfer of electrons between atoms",
+            "hydrogen": "Special type of bond involving hydrogen atoms"
+        }
+    }
+}

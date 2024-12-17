@@ -1,0 +1,45 @@
+{
+    "greetings": {
+        "casual": [
+            "Hey!",
+            "Hi there!",
+            "What's up?",
+            "Yo!",
+            "Hello!"
+        ],
+        "formal": [
+            "Good day!",
+            "Greetings!",
+            "How do you do?",
+            "It is a pleasure to meet you."
+        ],
+        "morning": [
+            "Good morning!",
+            "Rise and shine!",
+            "Morning! Have a great day ahead.",
+            "Wishing you a bright and cheerful morning!"
+        ],
+        "evening": [
+            "Good evening!",
+            "Hope you had a great day.",
+            "Evening! Relax and enjoy your night."
+        ],
+        "farewell": [
+            "Goodbye!",
+            "See you later!",
+            "Take care!",
+            "Farewell, my friend.",
+            "Catch you soon!"
+        ],
+        "languages": {
+            "english": "Hello!",
+            "spanish": "¡Hola!",
+            "french": "Bonjour!",
+            "german": "Hallo!",
+            "italian": "Ciao!",
+            "japanese": "こんにちは (Konnichiwa)",
+            "chinese": "你好 (Nǐ hǎo)",
+            "hindi": "नमस्ते (Namaste)"
+        }
+    }
+}

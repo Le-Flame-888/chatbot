@@ -1,0 +1,120 @@
+2024-12-17 13:50:20,714 - INFO - Initializing AI components...
+2024-12-17 13:50:23,624 - INFO - AI components initialized successfully!
+2024-12-17 13:50:23,880 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 13:50:23,881 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 13:50:23,898 - INFO -  * Restarting with stat
+2024-12-17 13:50:36,917 - INFO - Initializing AI components...
+2024-12-17 13:50:39,439 - INFO - AI components initialized successfully!
+2024-12-17 13:50:39,453 - WARNING -  * Debugger is active!
+2024-12-17 13:50:39,472 - INFO -  * Debugger PIN: 129-254-465
+2024-12-17 16:44:11,880 - INFO - Initializing AI components...
+2024-12-17 16:44:17,418 - INFO - AI components initialized successfully!
+2024-12-17 16:44:17,456 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 16:44:17,456 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 16:44:17,461 - INFO -  * Restarting with stat
+2024-12-17 16:44:30,692 - INFO - Initializing AI components...
+2024-12-17 16:44:42,731 - INFO - AI components initialized successfully!
+2024-12-17 16:44:42,903 - WARNING -  * Debugger is active!
+2024-12-17 16:44:42,929 - INFO -  * Debugger PIN: 129-254-465
+2024-12-17 20:31:08,867 - INFO - Initializing AI components...
+2024-12-17 20:31:15,464 - INFO - AI components initialized successfully!
+2024-12-17 20:31:15,500 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 20:31:15,500 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 20:31:15,506 - INFO -  * Restarting with stat
+2024-12-17 20:31:28,749 - INFO - Initializing AI components...
+2024-12-17 20:31:35,680 - INFO - AI components initialized successfully!
+2024-12-17 20:31:35,756 - WARNING -  * Debugger is active!
+2024-12-17 20:31:35,778 - INFO -  * Debugger PIN: 129-254-465
+2024-12-17 20:31:39,981 - INFO - 127.0.0.1 - - [17/Dec/2024 20:31:39] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 20:31:39,990 - INFO - 127.0.0.1 - - [17/Dec/2024 20:31:39] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 20:31:44,389 - ERROR - Error getting answer: Page id "wa bnadem" does not match any pages. Try another id!
+2024-12-17 20:31:44,390 - INFO - 127.0.0.1 - - [17/Dec/2024 20:31:44] "POST /chat HTTP/1.1" 200 -
+2024-12-17 20:31:45,509 - INFO - 127.0.0.1 - - [17/Dec/2024 20:31:45] "POST /chat HTTP/1.1" 200 -
+2024-12-17 20:31:45,706 - INFO - 127.0.0.1 - - [17/Dec/2024 20:31:45] "POST /chat HTTP/1.1" 200 -
+2024-12-17 20:32:11,661 - INFO - 127.0.0.1 - - [17/Dec/2024 20:32:11] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 20:32:13,840 - INFO - 127.0.0.1 - - [17/Dec/2024 20:32:13] "POST /chat HTTP/1.1" 200 -
+2024-12-17 20:32:46,002 - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\chatbot-project\\app_2.py', reloading
+2024-12-17 20:32:47,533 - INFO -  * Restarting with stat
+2024-12-17 20:33:00,372 - INFO - Initializing AI components...
+2024-12-17 20:33:05,076 - INFO - AI components initialized successfully!
+2024-12-17 20:33:05,088 - WARNING -  * Debugger is active!
+2024-12-17 20:33:05,098 - INFO -  * Debugger PIN: 129-254-465
+2024-12-17 20:33:53,378 - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\chatbot-project\\app.py', reloading
+2024-12-17 20:33:54,428 - INFO -  * Restarting with stat
+2024-12-17 20:34:04,364 - INFO - Initializing AI components...
+2024-12-17 20:34:06,532 - INFO - AI components initialized successfully!
+2024-12-17 20:34:06,544 - WARNING -  * Debugger is active!
+2024-12-17 20:34:06,556 - INFO -  * Debugger PIN: 129-254-465
+2024-12-17 20:34:16,651 - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\chatbot-project\\app.py', reloading
+2024-12-17 20:34:17,675 - INFO -  * Restarting with stat
+2024-12-17 20:34:50,617 - INFO - Initializing AI components...
+2024-12-17 20:34:53,005 - INFO - AI components initialized successfully!
+2024-12-17 20:34:53,024 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 20:34:53,024 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 20:34:53,027 - INFO -  * Restarting with stat
+2024-12-17 20:35:02,412 - INFO - Initializing AI components...
+2024-12-17 20:35:04,612 - INFO - AI components initialized successfully!
+2024-12-17 20:35:04,623 - WARNING -  * Debugger is active!
+2024-12-17 20:35:04,632 - INFO -  * Debugger PIN: 129-254-465
+2024-12-17 20:35:06,862 - INFO - 127.0.0.1 - - [17/Dec/2024 20:35:06] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 20:35:08,846 - INFO - 127.0.0.1 - - [17/Dec/2024 20:35:08] "POST /chat HTTP/1.1" 200 -
+2024-12-17 20:36:48,049 - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\chatbot-project\\app.py', reloading
+2024-12-17 20:36:49,372 - INFO -  * Restarting with stat
+2024-12-17 20:36:59,245 - INFO - Initializing AI components...
+2024-12-17 20:37:01,867 - INFO - AI components initialized successfully!
+2024-12-17 20:37:01,878 - WARNING -  * Debugger is active!
+2024-12-17 20:37:01,886 - INFO -  * Debugger PIN: 129-254-465
+2024-12-17 20:37:03,860 - INFO - 127.0.0.1 - - [17/Dec/2024 20:37:03] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 20:37:05,956 - INFO - 127.0.0.1 - - [17/Dec/2024 20:37:05] "POST /chat HTTP/1.1" 200 -
+2024-12-17 20:37:24,519 - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\chatbot-project\\app.py', reloading
+2024-12-17 20:37:25,714 - INFO -  * Restarting with stat
+2024-12-17 20:37:35,570 - INFO - Initializing AI components...
+2024-12-17 20:37:37,597 - INFO - AI components initialized successfully!
+2024-12-17 20:37:37,608 - WARNING -  * Debugger is active!
+2024-12-17 20:37:37,618 - INFO -  * Debugger PIN: 129-254-465
+2024-12-17 20:37:39,601 - INFO - 127.0.0.1 - - [17/Dec/2024 20:37:39] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 20:37:41,513 - INFO - 127.0.0.1 - - [17/Dec/2024 20:37:41] "POST /chat HTTP/1.1" 200 -
+2024-12-17 20:37:47,636 - INFO - 127.0.0.1 - - [17/Dec/2024 20:37:47] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 20:37:50,021 - INFO - 127.0.0.1 - - [17/Dec/2024 20:37:50] "POST /chat HTTP/1.1" 200 -
+2024-12-17 20:38:09,692 - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\chatbot-project\\app.py', reloading
+2024-12-17 20:38:10,927 - INFO -  * Restarting with stat
+2024-12-17 20:38:20,208 - INFO - Initializing AI components...
+2024-12-17 20:38:22,509 - INFO - AI components initialized successfully!
+2024-12-17 20:38:22,519 - WARNING -  * Debugger is active!
+2024-12-17 20:38:22,528 - INFO -  * Debugger PIN: 129-254-465
+2024-12-17 20:38:24,515 - INFO - 127.0.0.1 - - [17/Dec/2024 20:38:24] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 20:38:24,519 - INFO - 127.0.0.1 - - [17/Dec/2024 20:38:24] "POST /chat HTTP/1.1" 200 -
+2024-12-17 20:38:41,008 - INFO - 127.0.0.1 - - [17/Dec/2024 20:38:41] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 20:38:41,247 - INFO - 127.0.0.1 - - [17/Dec/2024 20:38:41] "POST /chat HTTP/1.1" 200 -
+2024-12-17 20:39:56,330 - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\chatbot-project\\app.py', reloading
+2024-12-17 20:39:57,391 - INFO -  * Restarting with stat
+2024-12-17 20:40:07,202 - INFO - Initializing AI components...
+2024-12-17 20:40:09,498 - INFO - AI components initialized successfully!
+2024-12-17 20:40:09,509 - WARNING -  * Debugger is active!
+2024-12-17 20:40:09,518 - INFO -  * Debugger PIN: 129-254-465
+2024-12-17 20:40:25,127 - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\chatbot-project\\app.py', reloading
+2024-12-17 20:40:26,217 - INFO -  * Restarting with stat
+2024-12-17 20:40:35,513 - INFO - Initializing AI components...
+2024-12-17 20:40:38,020 - INFO - AI components initialized successfully!
+2024-12-17 20:40:38,032 - WARNING -  * Debugger is active!
+2024-12-17 20:40:38,041 - INFO -  * Debugger PIN: 129-254-465
+2024-12-17 20:40:51,961 - INFO -  * Detected change in 'C:\\Users\\USER\\OneDrive\\Desktop\\chatbot-project\\app.py', reloading
+2024-12-17 20:40:52,886 - INFO -  * Restarting with stat
+2024-12-17 21:03:36,366 - INFO - Initializing AI components...
+2024-12-17 21:03:38,414 - INFO - AI components initialized successfully!
+2024-12-17 21:03:38,431 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 21:03:38,432 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 21:03:38,435 - INFO -  * Restarting with stat
+2024-12-17 21:03:48,512 - INFO - Initializing AI components...
+2024-12-17 21:03:50,868 - INFO - AI components initialized successfully!
+2024-12-17 21:03:50,879 - WARNING -  * Debugger is active!
+2024-12-17 21:03:50,887 - INFO -  * Debugger PIN: 129-254-465
+2024-12-17 21:03:53,136 - INFO - 127.0.0.1 - - [17/Dec/2024 21:03:53] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 21:03:56,730 - INFO - 127.0.0.1 - - [17/Dec/2024 21:03:56] "POST /chat HTTP/1.1" 200 -
+2024-12-17 21:04:20,663 - INFO - 127.0.0.1 - - [17/Dec/2024 21:04:20] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 21:04:22,900 - INFO - 127.0.0.1 - - [17/Dec/2024 21:04:22] "POST /chat HTTP/1.1" 200 -

@@ -1,0 +1,45 @@
+{
+    "ancient_civilizations": {
+        "egypt": {
+            "period": "c. 3100 BCE - 30 BCE",
+            "achievements": [
+                "Pyramids",
+                "Hieroglyphs",
+                "Calendar system"
+            ],
+            "notable_figures": [
+                "Tutankhamun",
+                "Cleopatra",
+                "Ramesses II"
+            ]
+        },
+        "rome": {
+            "period": "753 BCE - 476 CE",
+            "achievements": [
+                "Road systems",
+                "Aqueducts",
+                "Legal system"
+            ],
+            "notable_figures": [
+                "Julius Caesar",
+                "Augustus",
+                "Constantine"
+            ]
+        }
+    },
+    "modern_history": {
+        "industrial_revolution": {
+            "period": "1760 - 1840",
+            "innovations": [
+                "Steam engine",
+                "Factory system",
+                "Mass production"
+            ],
+            "impacts": [
+                "Urbanization",
+                "Economic growth",
+                "Social change"
+            ]
+        }
+    }
+}
